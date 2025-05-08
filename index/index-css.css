@@ -16,10 +16,8 @@
 :root {
     --iconoTransparente: rgb(34, 34, 34);
     --fondoOscuro: rgba(0, 0, 0, .4);
-    --botonBackColor1: rgb(55, 55, 55);
-    --botonBackColor2: rgb(240, 240, 240);
-    --botonColor1: rgb(180, 180, 180) !important; /* google */
-    --botonColor2: rgb(120, 120, 120) !important; /* google */
+    --colorOscuro: rgb(55, 55, 55);
+    --colorClaro: rgb(220, 220, 220);
 }
 
 body {
